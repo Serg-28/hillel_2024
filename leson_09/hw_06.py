@@ -1,8 +1,4 @@
-currency_exchange = {
-    "EUR": (0.94, 1.06),
-    "USD": (0.87, 1.14),
-    "UAH": (0.023, 42.99)
-}
+rates = {"EUR": (0.94, 1.06), "USD": (0.87, 1.14), "UAH": (0.023, 42.99)}
 
 
 class Price:
@@ -18,11 +14,11 @@ class Price:
             return Price(value=self.value + other.value, currency=self.currency)
         else:
             # Converting both prices to the CHF
-            first_price = self.value * currency_exchange[self.currency][0]
-            second_price = other.value * currency_exchange[other.currency][0]
+            first_price = self.value * rates[self.currency][0]
+            second_price = other.value * rates[other.currency][0]
 
             # Converting total price in CHF to the first currency
-            total_price = (first_price + second_price) * currency_exchange[self.currency][1]
+            total_price = (first_price + second_price) * rates[self.currency][1]
             return Price(value=round(total_price, 2), currency=self.currency)
 
     def __sub__(self, other):
