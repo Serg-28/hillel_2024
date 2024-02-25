@@ -32,6 +32,7 @@ def convert(value, currency_from, currency_to):
             "timestamp": dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         }
     ]
+
     with open(file_name, mode="r") as file:
         try:
             old_log_data = json.load(file)
