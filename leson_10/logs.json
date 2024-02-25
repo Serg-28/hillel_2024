@@ -1,0 +1,92 @@
+[
+    {
+        "currency_from": "USD",
+        "currency_to": "CHF",
+        "rate": "0.87990000",
+        "timestamp": "2024-02-25 19:29:44"
+    },
+    {
+        "currency_from": "EUR",
+        "currency_to": "CHF",
+        "rate": "0.95240000",
+        "timestamp": "2024-02-25 19:29:44"
+    },
+    {
+        "currency_from": "CHF",
+        "currency_to": "USD",
+        "rate": "1.13650000",
+        "timestamp": "2024-02-25 19:29:45"
+    },
+    {
+        "currency_from": "UAH",
+        "currency_to": "CHF",
+        "rate": "0.02282000",
+        "timestamp": "2024-02-25 19:33:50"
+    },
+    {
+        "currency_from": "EUR",
+        "currency_to": "CHF",
+        "rate": "0.95240000",
+        "timestamp": "2024-02-25 19:33:52"
+    },
+    {
+        "currency_from": "CHF",
+        "currency_to": "UAH",
+        "rate": "43.80670000",
+        "timestamp": "2024-02-25 19:34:01"
+    },
+    {
+        "currency_from": "UAH",
+        "currency_to": "CHF",
+        "rate": "0.02282000",
+        "timestamp": "2024-02-25 19:46:43"
+    },
+    {
+        "currency_from": "EUR",
+        "currency_to": "CHF",
+        "rate": "0.95240000",
+        "timestamp": "2024-02-25 19:46:44"
+    },
+    {
+        "currency_from": "CHF",
+        "currency_to": "UAH",
+        "rate": "43.80370000",
+        "timestamp": "2024-02-25 19:46:46"
+    },
+    {
+        "currency_from": "UAH",
+        "currency_to": "CHF",
+        "rate": "0.02282000",
+        "timestamp": "2024-02-25 19:47:38"
+    },
+    {
+        "currency_from": "EUR",
+        "currency_to": "CHF",
+        "rate": "0.95240000",
+        "timestamp": "2024-02-25 19:47:39"
+    },
+    {
+        "currency_from": "CHF",
+        "currency_to": "UAH",
+        "rate": "43.80370000",
+        "timestamp": "2024-02-25 19:47:44"
+    },
+    {
+        "currency_from": "UAH",
+        "currency_to": "CHF",
+        "rate": "0.02282000",
+        "timestamp": "2024-02-25 19:48:15"
+    },
+    {
+        "currency_from": "EUR",
+        "currency_to": "CHF",
+        "rate": "0.95240000",
+        "timestamp": "2024-02-25 19:48:16"
+    },
+    {
+        "currency_from": "CHF",
+        "currency_to": "UAH",
+        "rate": "43.80370000",
+        "timestamp": "2024-02-25 19:48:17"
+    }
+]
